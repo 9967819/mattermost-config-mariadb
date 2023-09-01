@@ -1,5 +1,7 @@
 # mattermost-config-mariadb
-Working configuration for running Mattermost 8 with MariaDB 10. 
+Working configuration for running Mattermost 8 (Community Edition) with MariaDB 10 and nginx. 
+
+Demo site: https://open-neurosecurity.org/forum/
 
 
 ### Initial requirements
