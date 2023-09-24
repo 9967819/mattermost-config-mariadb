@@ -1,0 +1,5 @@
+Be sure to block/drop UDP/8443 since we dont want or need this backdoor in our 
+fully-operational MM instance.
+
+udp dport { 8443 } counter drop
+
